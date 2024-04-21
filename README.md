@@ -7,6 +7,8 @@
 - If the Tengu is tied correctly, both strands should be under even tension and the hojo cuff will not collapse. If you are not confident you can achieve consistent tension however, there is a simple (albeit, a bit fiddly) fix: Instead of using the hojo cuffs, use the In-line Burlington Bowline (ILBB).  This is a simple variation on what I show here, and is non-collapsing, so some prefer it. The down side is that it takes a little longer to tie and untie, and for ILBBs #2-4 it will require some working of the knot after it is tied to get the right tension.
 </div>
 
+---
+
 <div class="flow" markdown="1">
 - ![](img/Tengu-100.jpg) 1. Position one arm like a wing
 - ![](img/Tengu-02.jpg) 2. Measure out about 3’ (1m) of rope which will be used to tie a hojo cuff around the lower biceps. See the Important Note above. If you are concerned about the collapsing nature of the “hojo cuff”, use the In-line Burlington Bowline (ILBB)
